@@ -1,0 +1,12 @@
+@import 'tailwindcss';
+
+:root * {
+  outline: none;
+}
+
+.main {
+  
+  height: 30px;
+  background: blueviolet;
+  user-select: none;
+}

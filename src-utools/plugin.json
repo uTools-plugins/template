@@ -1,0 +1,15 @@
+{
+  "main": "dist/index.html",
+  "logo": "public/logo.jpg",
+  "preload": "preload.js",
+  "name": "template",
+  "pluginName": "模板",
+  "features": [
+    {
+      "code": "template",
+      "explain": "模板",
+      "cmds": ["template", "模板"],
+      "platform": ["win32"]
+    }
+  ]
+}

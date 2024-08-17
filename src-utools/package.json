@@ -1,0 +1,11 @@
+{
+  "name": "template",
+  "version": "0.0.1",
+  "description": "模板",
+  "main": "preload.js",
+  "author": "",
+  "license": "MIT",
+  "type": "commonjs",
+  "dependencies": {},
+  "devDependencies": {}
+}
